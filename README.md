@@ -70,10 +70,6 @@ Here is my live development velocity, contribution grid stats, and language anal
   <img src="https://github-readme-stats.vercel.app/api?username=NileshJain82&show_icons=true&theme=radical&bg_color=0d1117&title_color=ffffff&icon_color=0055aa&text_color=c9d1d9&hide_border=true" alt="Nilesh Core Stats" height="150" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NileshJain82&layout=compact&theme=radical&bg_color=0d1117&title_color=ffffff&icon_color=0055aa&text_color=c9d1d9&hide_border=true" alt="Nilesh Top Languages" height="150" />
-</p>
-
 ---
 
 *“Whether you need a high-performance frontend layer, a multi-tenant SaaS application structure, or a custom AI workflow automation pipeline to kill manual overhead—[let's sync on Calendly](https://calendly.com/neeljain7821/brainstorm) and ship it.”*
